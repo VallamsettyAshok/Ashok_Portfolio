@@ -77,7 +77,7 @@ Contact Email: ${data.email}`);
               <h1 className="main-title">
                 <span className="main-title-span">Vallamsetty Ashok</span>
               </h1>
-              <p className="tagline">QA Engineer | Automation & Manual Testing | Banking Fraud Detection</p>
+              <p className="tagline">QA Engineer | Automation & Manual Testing | Banking(Fraud UAT Testing) </p>
             </div>
           </div>
 
